@@ -53,4 +53,14 @@
     "contenu": "1000 € de crédits cloud offerts au club chaque mois pour héberger vos projets !",
     "lien": "Demander un serveur →"
   }
+    ,
+  {
+    "titre": "Nouvelle annonce test",
+    "date": "2025-12-25",
+    "categorie": "annonces",
+    "tag": "Annonce",
+    "image": "../Images/ma-nouvelle-image.jpg",
+    "contenu": "Description de l'annonce ici.",
+    "lien": "En savoir plus →"
+  }
 ]
