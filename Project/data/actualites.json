@@ -1,0 +1,56 @@
+[
+  {
+    "titre": "Lancement du Lab Cyber-sécurité",
+    "date": "2025-12-07",
+    "categorie": "nouveautes",
+    "tag": "Nouveauté",
+    "image": "../Images/admin1.jpg",
+    "contenu": "Nous venons de recevoir 3 machines de pentest + un cluster de crack offert par HackTheBox !",
+    "lien": "#"
+  },
+  {
+    "titre": "1ʳᵉ place au Hackathon National 2025 !",
+    "date": "2025-11-28",
+    "categorie": "cr",
+    "tag": "Compte rendu",
+    "image": "../Images/medecin.jpg",
+    "contenu": "Notre équipe « IUT Warriors » remporte le 1er prix avec son appli de suivi médical offline.",
+    "lien": "Voir les photos & le projet →"
+  },
+  {
+    "titre": "Élections du Bureau 2025–2026",
+    "date": "2025-12-15",
+    "categorie": "annonces",
+    "tag": "Annonce",
+    "image": "../Images/vote (1).jpg",
+    "contenu": "Candidatures ouvertes jusqu’au 10 décembre ! Poste de président·e, VP, trésorier·e, com’…",
+    "lien": "Déposer sa candidature →"
+  },
+  {
+    "titre": "Atelier Stable Diffusion chaque mardi",
+    "date": "2025-12-02",
+    "categorie": "nouveautes",
+    "tag": "Nouveauté",
+    "image": "../Images/ia-ih-foncee-1.jpg",
+    "contenu": "Génération d’images par IA, fine-tunée sur nos GPU. Places limitées à 20 personnes !",
+    "lien": "S’inscrire à l’atelier →"
+  },
+  {
+    "titre": "Soirée LAN : 124 joueurs, 16h non-stop",
+    "date": "2025-11-18",
+    "categorie": "cr",
+    "tag": "Compte rendu",
+    "image": "../Images/soirée lan.jpg",
+    "contenu": "Rocket League, Valorant, Smash… et un tournoi Mario Kart épique jusqu’à 4h du matin !",
+    "lien": "Voir le classement final →"
+  },
+  {
+    "titre": "Partenariat avec OVHcloud",
+    "date": "2025-12-01",
+    "categorie": "annonces",
+    "tag": "Annonce importante",
+    "image": "../Images/hebergement-web.jpg",
+    "contenu": "1000 € de crédits cloud offerts au club chaque mois pour héberger vos projets !",
+    "lien": "Demander un serveur →"
+  }
+]
